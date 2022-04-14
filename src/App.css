@@ -1,0 +1,49 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.redes{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2%;
+}
+.red{
+  margin-top: 5%;
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+  cursor: pointer;
+}
+.mensaje{
+  width: 30px;
+  height: 25px;
+  margin: 10px;
+  cursor: pointer;
+}
+.wpp{
+  height: 45px;
+  width: 200px;
+  cursor: pointer;
+}
+.pop{
+  display: flex;
+  background-color: #5175f4 ;
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 400;
+  position:relative;
+
+
+}
+h3{
+  margin-top: 10%;
+  font-weight: 400;
+}
+
+
