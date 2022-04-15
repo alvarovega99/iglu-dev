@@ -67,10 +67,12 @@ h3{
 
 .get p {
   position: absolute;
-  top: 12px;
-  right: 35px;
+  top: 11px;
+  right: 27px;
   color: white;
   margin: 0;
+  font-weight: bold;
+  font-size: 17px;
 }
 
 .get p:hover {
