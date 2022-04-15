@@ -42,8 +42,40 @@
 
 }
 h3{
-  margin-top: 10%;
+ /*  margin-top: 10%; */
   font-weight: 400;
+}
+
+.contendorh3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 5rem;
+}
+
+.prueba {
+  min-height: 5rem;
+}
+
+.prueba {
+  opacity: 0;
+}
+
+.get {
+ position: relative;
+}
+
+.get p {
+  position: absolute;
+  top: 12px;
+  right: 35px;
+  color: white;
+  margin: 0;
+}
+
+.get p:hover {
+  cursor: pointer;
+  pointer-events: none;
 }
 
 
